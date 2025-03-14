@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZiadSherifNabil
+- 👋 Hi, I’m Ziad Sherif Nabil
 - 👀 I’m interested in Web Devolpment , Data Science
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me Email : ziadsherifnabil@gmail.com
